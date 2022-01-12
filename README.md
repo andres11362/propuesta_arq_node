@@ -1,4 +1,4 @@
-#Estructura base para un proyecto NodeJS
+# Estructura base para un proyecto NodeJS
 
 Basado en dos principios basicos de la programación.
 
